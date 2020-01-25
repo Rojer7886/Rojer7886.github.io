@@ -1,0 +1,42 @@
+h1 {
+    color: white;
+}
+
+.contact{
+    color: black;
+}
+
+.logo {
+    width: 50px
+}
+
+.jumbotron {
+    /* Background */
+    background-attachment: fixed;
+    background-image: url(bangkok-grand-palace-at-night-1400x500.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+.jumbotron p {
+    color: white;
+}
+
+.services {
+    background-color: blanchedalmond;
+}
+
+.services2 {
+    color: black;
+}
+
+.nav-link {
+    color: black;
+}
+
+.pic_out{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+  }
